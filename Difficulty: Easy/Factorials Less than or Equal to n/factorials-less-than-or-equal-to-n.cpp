@@ -8,20 +8,32 @@ using namespace std;
 // User function Template for C++
 class Solution {
   public:
-    vector<long long> factorialNumbers(long long n) {
+    vector<long long> factorialNumbers(long long n,long long fact=1, long long i=1,vector<long long>ans={}) {
         // Write Your Code here
-        long long fact = 1 ;
-        vector<long long>ans ;
         
-        for(int i=1 ; i<=n ; i++){
-            if(fact*i > n){
-                break ;
-            }
+        /*Brute Force Approach*/
+        // long long fact = 1 ;
+        // vector<long long>ans ;
+        
+        // for(int i=1 ; i<=n ; i++){
+        //     if(fact*i > n){
+        //         break ;
+        //     }
             
-            fact = fact*i ;
-            ans.push_back(fact) ;
+        //     fact = fact*i ;
+        //     ans.push_back(fact) ;
+        // }
+        // return ans ;
+        
+        /*Optimal Approach*/
+        if((fact*i)>n){
+            return ans ;
         }
-        return ans ;
+        
+        fact = fact*i ;
+        ans.push_back(fact) ;
+        
+        return factorialNumbers(n,fact,i+1,ans) ;
         
     }
 };
