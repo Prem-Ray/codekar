@@ -6,7 +6,10 @@ private:
         }
         return false ;
     }
+
+
 public:
+    
     bool isPalindrome(string s,int l=0, int e=-1) {
         string temp = "" ;
         for(int i=0 ; i<s.size() ; i++){
@@ -29,3 +32,5 @@ public:
     }
     
 };
+   
+ 
