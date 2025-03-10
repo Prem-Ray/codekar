@@ -10,13 +10,30 @@ class Solution {
     // Function to count the frequency of all elements from 1 to N in the array.
     vector<int> frequencyCount(vector<int>& arr) {
         // code here
-        int n=arr.size() ;
+        
+        // using hash array
+        
+        // int n=arr.size() ;
         // int maxval = *max_element(arr.begin(),arr.end()) ;
-        vector<int>hashh(n,0) ;
-        for(int i=0 ; i<n ; i++){
-            hashh[arr[i]-1] += 1 ;
+        // vector<int>hashh(n,0) ;
+        // for(int i=0 ; i<n ; i++){
+        //     hashh[arr[i]-1] += 1 ;
+        // }
+        // return hashh ;
+        
+        vector<int>newarr(arr.size(),0) ;
+        unordered_map<int,int>mp ;
+        
+        for(int i=0 ; i<arr.size() ; i++){
+            mp[arr[i]]++ ;
         }
-        return hashh ;
+        
+        for(auto i:mp){
+            newarr[i.first-1]=i.second; 
+        }
+        
+        return newarr ;
+        
     }
 };
 
