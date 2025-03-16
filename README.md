@@ -9,6 +9,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prem-Ray/codekar/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -35,4 +36,5 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
