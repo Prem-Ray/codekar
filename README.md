@@ -23,6 +23,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prem-Ray/codekar/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/Prem-Ray/codekar/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Prem-Ray/codekar/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Prem-Ray/codekar/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
@@ -66,6 +68,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prem-Ray/codekar/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 ## Counting
 |  |
