@@ -10,6 +10,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 | [0125-valid-palindrome](https://github.com/Prem-Ray/codekar/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prem-Ray/codekar/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +78,8 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
