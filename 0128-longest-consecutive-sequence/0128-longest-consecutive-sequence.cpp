@@ -4,10 +4,12 @@ public:
         int count = 0 ;
         int maxlength = 1 ;
 
+        // if your array is empty
         if(nums.size() == 0){
             return 0 ;
         }
 
+        // all array elements push into the set
         unordered_set<int>st ;
         for(int i=0 ; i<nums.size() ; i++){
             st.insert(nums[i]) ;
