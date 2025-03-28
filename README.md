@@ -42,6 +42,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Prem-Ray/codekar/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prem-Ray/codekar/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Prem-Ray/codekar/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prem-Ray/codekar/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prem-Ray/codekar/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Prem-Ray/codekar/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 ## Binary Search
@@ -82,4 +84,8 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prem-Ray/codekar/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
