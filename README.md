@@ -18,6 +18,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prem-Ray/codekar/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
@@ -40,6 +41,7 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/Prem-Ray/codekar/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Prem-Ray/codekar/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prem-Ray/codekar/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prem-Ray/codekar/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,5 +95,6 @@ Collection of LeetCode and GeetHub questions to ace the coding interview
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prem-Ray/codekar/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
