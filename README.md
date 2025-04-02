@@ -1,5 +1,5 @@
 # codekar
-Collection of LeetCode and GeetHub questions to ace the coding interview
+Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
