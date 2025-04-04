@@ -2,6 +2,30 @@ class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
 
+        // int n = nums.size() ;
+        // map<int,int>mpp ;
+        // vector<int>list ;
+
+        
+        // for(int i=0 ; i<n ; i++){
+        //     mpp[nums[i]]++ ;
+
+        //     if(mpp[nums[i]]>n/3){
+        //         list.push_back(nums[i]) ;
+        //     }
+
+        //     if(list.size() == ceil(n/3)){
+        //         break ;
+        //     }
+
+        // }
+
+        // return list ;
+
+
+
+
+
         int n = nums.size() ;
         vector<int>list ; 
         
@@ -34,7 +58,7 @@ public:
                 }
 
                 // if your list already have 2 element so nothing to insert leave it
-                if(list.size()==2){
+                if(list.size()== ceil(2)){
                     break ;
                 }
             }
