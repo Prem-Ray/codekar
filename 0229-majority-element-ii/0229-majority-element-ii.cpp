@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
 
+        // Optimal Approach
         int count1 = 0 ;
         int count2 = 0 ;
 
@@ -46,6 +47,8 @@ public:
 
        return list ;
 
+        // Better Approach
+
         // int n = nums.size() ;
         // map<int,int>mpp ;
         // vector<int>list ;
@@ -71,9 +74,8 @@ public:
         // return list ;
 
 
-
-
-
+        // Brute Force Approach
+        
         // int n = nums.size() ;
         // vector<int>list ; 
         
