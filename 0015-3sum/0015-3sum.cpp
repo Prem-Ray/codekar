@@ -28,6 +28,7 @@ public:
                     ans.push_back(temp) ;
                     j++ ;
                     k-- ;
+                    // for avoiding the duplicate sample
                     while(j<k && nums[j] == nums[j-1]) j++ ;
                     while(j<k && nums[k] == nums[k+1]) k-- ;
                 }
