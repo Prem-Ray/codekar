@@ -7,6 +7,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prem-Ray/codekar/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Prem-Ray/codekar/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prem-Ray/codekar/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
@@ -43,6 +44,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/Prem-Ray/codekar/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Prem-Ray/codekar/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Prem-Ray/codekar/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Prem-Ray/codekar/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prem-Ray/codekar/tree/master/0053-maximum-subarray) |
@@ -83,6 +85,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prem-Ray/codekar/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Prem-Ray/codekar/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prem-Ray/codekar/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
