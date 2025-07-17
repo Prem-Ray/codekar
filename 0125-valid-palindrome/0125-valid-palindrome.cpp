@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+
     bool checkPointer(char ch){
         if((ch>='A' && ch<='Z') || (ch>='a' && ch<='z') || (ch>='0' && ch<='9')){
             return true ;
@@ -25,6 +27,8 @@ public:
             h-- ;
         }
         return true ;
+
+        
 
     }
 };
