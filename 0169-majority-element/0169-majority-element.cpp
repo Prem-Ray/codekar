@@ -11,11 +11,9 @@ public:
                 element = nums[i] ;
                 // initialize the count with 1 
                 count = 1 ;
-            }
-            else if(nums[i] == element){
+            }else if(nums[i] == element){
                 count++ ;
-            }
-            else{
+            }else{
                 count-- ;
             }
         }
