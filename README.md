@@ -54,6 +54,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prem-Ray/codekar/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prem-Ray/codekar/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prem-Ray/codekar/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Prem-Ray/codekar/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Prem-Ray/codekar/tree/master/0229-majority-element-ii) |
@@ -80,6 +81,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Prem-Ray/codekar/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Prem-Ray/codekar/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 ## Sorting
 |  |
