@@ -21,6 +21,8 @@ class Solution {
         if(head == nullptr) {
             if(p==0){
                 return new Node(x) ;
+            }else{
+                return nullptr ;
             }
         }
         
