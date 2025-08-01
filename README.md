@@ -133,5 +133,6 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Prem-Ray/codekar/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Prem-Ray/codekar/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
