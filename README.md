@@ -13,6 +13,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0141-linked-list-cycle](https://github.com/Prem-Ray/codekar/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prem-Ray/codekar/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0141-linked-list-cycle](https://github.com/Prem-Ray/codekar/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prem-Ray/codekar/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0908-middle-of-the-linked-list) |
 ## Database
@@ -143,4 +146,8 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0595-big-countries](https://github.com/Prem-Ray/codekar/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Prem-Ray/codekar/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Prem-Ray/codekar/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
