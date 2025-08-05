@@ -22,6 +22,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prem-Ray/codekar/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prem-Ray/codekar/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prem-Ray/codekar/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Prem-Ray/codekar/tree/master/0344-reverse-string) |
@@ -153,5 +154,6 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prem-Ray/codekar/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
