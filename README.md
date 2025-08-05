@@ -15,12 +15,14 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Prem-Ray/codekar/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Prem-Ray/codekar/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Prem-Ray/codekar/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
