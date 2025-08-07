@@ -27,6 +27,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0151-reverse-words-in-a-string](https://github.com/Prem-Ray/codekar/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Prem-Ray/codekar/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Prem-Ray/codekar/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,4 +160,8 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0020-valid-parentheses](https://github.com/Prem-Ray/codekar/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Prem-Ray/codekar/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
