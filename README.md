@@ -28,6 +28,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0344-reverse-string](https://github.com/Prem-Ray/codekar/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Prem-Ray/codekar/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prem-Ray/codekar/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Prem-Ray/codekar/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -124,6 +125,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prem-Ray/codekar/tree/master/0054-spiral-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Prem-Ray/codekar/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -162,6 +164,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Prem-Ray/codekar/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prem-Ray/codekar/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Prem-Ray/codekar/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
