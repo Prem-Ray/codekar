@@ -2,7 +2,8 @@ class Solution {
 public:
     string removeDuplicates(string s) {
         string temp="" ;
-        for(int i=0 ; i<s.size() ;  i++){
+        int i=0 ;
+        while(i<s.size()){
             if(temp.size() == 0){
                 temp.push_back(s[i]) ;
             }else{
@@ -12,6 +13,7 @@ public:
                     temp.push_back(s[i]) ;
                 }
             }
+            i++ ;
         }
         return temp ;
     }
