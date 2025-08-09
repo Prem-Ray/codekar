@@ -27,6 +27,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0125-valid-palindrome](https://github.com/Prem-Ray/codekar/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prem-Ray/codekar/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Prem-Ray/codekar/tree/master/0344-reverse-string) |
+| [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Prem-Ray/codekar/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Prem-Ray/codekar/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prem-Ray/codekar/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -41,6 +42,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prem-Ray/codekar/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prem-Ray/codekar/tree/master/0342-power-of-four) |
+| [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -86,6 +88,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prem-Ray/codekar/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -121,6 +124,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prem-Ray/codekar/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
