@@ -1,29 +1,21 @@
 class Solution {
 public:
-
-    int expandIndex(string s , int left , int right) {
+    int checkpalindrome(string s , int i , int j){
         int count=0 ;
-        while( left>=0 && right<s.length() && s[left]==s[right] ) {
+        while(i>=0 && j<s.size() && s[i]==s[j]){
             count++ ;
-            left-- ;
-            right++ ;
+            i-- ;
+            j++ ;
         }
         return count ;
     }
+
     int countSubstrings(string s) {
-
-        int n = s.length() ;
-        int totalCount = 0 ;
-
-        for(int i=0 ; i<n ; i++) {
-            //odd
-            int oddAns = expandIndex(s,i,i) ;
-            totalCount = totalCount+oddAns ;
-            //even
-            int evenAns = expandIndex(s,i,i+1) ;
-            totalCount = totalCount+evenAns ;
+        int count = 0 ;
+        for(int i=0 ; i<s.size() ; i++){
+                count += checkpalindrome(s,i,i+1) ;
+                count += checkpalindrome(s,i,i) ;
         }
-        return totalCount ;
+        return count ;
     }
-    
 };
