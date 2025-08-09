@@ -27,6 +27,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0020-valid-parentheses](https://github.com/Prem-Ray/codekar/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prem-Ray/codekar/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prem-Ray/codekar/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Prem-Ray/codekar/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prem-Ray/codekar/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Prem-Ray/codekar/tree/master/0647-palindromic-substrings) |
@@ -104,6 +105,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0142-linked-list-cycle-ii](https://github.com/Prem-Ray/codekar/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prem-Ray/codekar/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Prem-Ray/codekar/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -126,6 +128,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0018-4sum](https://github.com/Prem-Ray/codekar/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prem-Ray/codekar/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Prem-Ray/codekar/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 ## Divide and Conquer
