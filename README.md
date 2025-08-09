@@ -35,6 +35,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | ------- |
 | [0048-rotate-image](https://github.com/Prem-Ray/codekar/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Prem-Ray/codekar/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
@@ -49,6 +50,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Prem-Ray/codekar/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -101,6 +103,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | ------- |
 | [0136-single-number](https://github.com/Prem-Ray/codekar/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prem-Ray/codekar/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Prem-Ray/codekar/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Prem-Ray/codekar/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 ## Sorting
