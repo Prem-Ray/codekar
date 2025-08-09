@@ -25,7 +25,7 @@ public:
         }
 
         for(int i=0 ; i<27 ; i++){
-            if(hashh[i] > 0){
+            if(hashh[i] != 0){
                 return false ;
             }
         }
