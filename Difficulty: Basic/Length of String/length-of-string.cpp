@@ -3,7 +3,13 @@
 class Solution {
   public:
     int lengthString(string &s) {
-        // Your code here
-        return s.size() ;
+        int size=0 ;
+        int i=0 ;
+        
+        while(s[i]!='\0'){
+            size++ ;
+            i++ ;
+        }
+        return size ;
     }
 };
