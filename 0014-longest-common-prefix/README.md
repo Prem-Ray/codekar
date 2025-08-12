@@ -2,6 +2,7 @@
 
 <p>If there is no common prefix, return an empty string <code>""</code>.</p>
 
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
