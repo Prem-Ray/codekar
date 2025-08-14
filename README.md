@@ -38,6 +38,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prem-Ray/codekar/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prem-Ray/codekar/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
 | ------- |
