@@ -15,7 +15,7 @@ public:
 
         ListNode* fast = head ;
         ListNode* slow = head ;
-        ListNode* nextHead = head ;
+        // ListNode* nextHead = head ;
        
 
         for(int i=0 ; i<n ; i++){
@@ -23,10 +23,12 @@ public:
         }
 
         if(fast==NULL){
-            nextHead = head->next ;
+            slow = slow->next ;
+            // nextHead = head->next ;
             head->next = NULL ;
             delete head ;
-            return nextHead ;
+            // return nextHead ;
+            return slow ;
         }
 
         while(fast->next != NULL){
