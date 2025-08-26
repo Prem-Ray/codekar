@@ -55,6 +55,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
+| [2571-find-the-pivot-integer](https://github.com/Prem-Ray/codekar/tree/master/2571-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Prem-Ray/codekar/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Prem-Ray/codekar/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/Prem-Ray/codekar/tree/master/2571-find-the-pivot-integer) |
 ## Linked List
 |  |
 | ------- |
