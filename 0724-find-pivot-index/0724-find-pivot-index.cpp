@@ -1,22 +1,23 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
+        int pivot = -1 ;
+        int totalSum = 0 ;
 
-        int sum = 0 ;
-        for(int i=0 ; i<nums.size(); i++) {
-            sum+=nums[i] ; 
+        //total sum calculation 
+        for(int i=0 ; i<nums.size() ; i++){
+            totalSum += nums[i] ;
         }
 
-        int cs = 0 ;
-       
-        for(int i=0; i<nums.size();i++) {
-             int ls = cs;
-           int  rs = sum - ls - nums[i] ;
-           if(ls == rs) {
-               return i ;
-           }
-            cs+=nums[i];
+        // prefix sum calculation and check pivot index
+        if(nums[0] == totalSum) return 0 ;
+        for(int i=1 ; i<nums.size() ; i++){
+            nums[i] = nums[i-1]+nums[i] ;
+            cout<<nums[i]<<" " ;
+            int suffixSum = totalSum-nums[i] ;
+            int prefixSum = nums[i-1] ;
+            if(prefixSum == suffixSum) return i ;
         }
-        return -1 ;
+        return pivot ;
     }
 };
