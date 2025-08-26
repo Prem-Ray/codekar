@@ -103,6 +103,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0485-max-consecutive-ones](https://github.com/Prem-Ray/codekar/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Prem-Ray/codekar/tree/master/0724-find-pivot-index) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -174,6 +175,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Prem-Ray/codekar/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Prem-Ray/codekar/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
 | ------- |
