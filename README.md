@@ -99,6 +99,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0260-single-number-iii](https://github.com/Prem-Ray/codekar/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Prem-Ray/codekar/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Prem-Ray/codekar/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Prem-Ray/codekar/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -211,4 +213,8 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prem-Ray/codekar/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Prem-Ray/codekar/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
