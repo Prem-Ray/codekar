@@ -2,30 +2,31 @@ class Solution {
   public:
     int majorityElement(vector<int>& arr) {
         // code here
-        int element=0 ;
         int count=0 ;
+        int element=-1 ;
         
-        if(arr.size()==0) return -1 ;
-        if(arr.size()==1) return arr[0] ;
+        int n=arr.size() ;
         
-        for(int i=0 ; i<arr.size() ; i++){
-            if(count==0){
-                element=arr[i] ;
-                count++ ;
-            }else if(arr[i]==element){
+        for(int i=0 ; i<n ; i++){
+            if(count == 0){
+                element = arr[i] ;
+                count=1 ;
+            }else if(arr[i] == element){
                 count++ ;
             }else{
                 count-- ;
             }
         }
         
-        if(count==0) return -1 ;
+        int countmajority=0 ;
         
-        int counter=0 ;
-        for(int i=0 ; i<arr.size() ; i++){
-            if(arr[i]==element) counter++ ;
-            if(counter>(arr.size())/2) return element ;
+        for(int i=0 ; i<n ; i++){
+            if(arr[i] == element){
+                countmajority++ ;
+            }
         }
+        
+        if(countmajority > n/2) return element ;
         
         return -1 ;
         
