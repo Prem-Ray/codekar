@@ -57,6 +57,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
 | [2571-find-the-pivot-integer](https://github.com/Prem-Ray/codekar/tree/master/2571-find-the-pivot-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [1603-running-sum-of-1d-array](https://github.com/Prem-Ray/codekar/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Prem-Ray/codekar/tree/master/1833-find-the-highest-altitude) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/Prem-Ray/codekar/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +184,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0048-rotate-image](https://github.com/Prem-Ray/codekar/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prem-Ray/codekar/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
