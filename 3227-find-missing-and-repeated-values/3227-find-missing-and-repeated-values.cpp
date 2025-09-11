@@ -12,7 +12,6 @@ public:
            }
         }
 
-        vector<int>ans ;
         int repeating=-1 ;
         int missing=-1 ;
 
@@ -27,11 +26,8 @@ public:
                 missing = i ;
             }
         }
-        
-        ans.push_back(repeating) ;
-        ans.push_back(missing) ;
+    
+        return {repeating,missing} ;
 
-        return ans ;
-        
     }
 };
