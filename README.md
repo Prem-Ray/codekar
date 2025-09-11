@@ -10,6 +10,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0018-4sum](https://github.com/Prem-Ray/codekar/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prem-Ray/codekar/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prem-Ray/codekar/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prem-Ray/codekar/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prem-Ray/codekar/tree/master/0142-linked-list-cycle-ii) |
@@ -91,6 +92,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0056-merge-intervals](https://github.com/Prem-Ray/codekar/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Prem-Ray/codekar/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Prem-Ray/codekar/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prem-Ray/codekar/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prem-Ray/codekar/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prem-Ray/codekar/tree/master/0128-longest-consecutive-sequence) |
@@ -145,6 +147,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0015-3sum](https://github.com/Prem-Ray/codekar/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prem-Ray/codekar/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Prem-Ray/codekar/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Prem-Ray/codekar/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prem-Ray/codekar/tree/master/0229-majority-element-ii) |
