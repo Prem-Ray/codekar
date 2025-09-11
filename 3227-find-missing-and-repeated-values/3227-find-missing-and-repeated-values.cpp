@@ -17,12 +17,10 @@ public:
 
         for(int i=1 ; i<hashh.size() ; i++){
             if(hashh[i]>1){
-                cout<<i<<"1 " ;
                 repeating = i ;
             }
 
             if(hashh[i]==0){
-                cout<<i<<"2 " ;
                 missing = i ;
             }
         }
