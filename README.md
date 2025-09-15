@@ -104,6 +104,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0136-single-number](https://github.com/Prem-Ray/codekar/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prem-Ray/codekar/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prem-Ray/codekar/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Prem-Ray/codekar/tree/master/0229-majority-element-ii) |
@@ -145,6 +146,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0035-search-insert-position](https://github.com/Prem-Ray/codekar/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prem-Ray/codekar/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prem-Ray/codekar/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Prem-Ray/codekar/tree/master/0792-binary-search) |
 ## Bit Manipulation
