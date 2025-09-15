@@ -2,8 +2,6 @@ class Solution {
 public:
     bool search(vector<int>& nums, int target) {
         
-        bool index=false ;
-
         int start = 0 ;
         int end = nums.size()-1 ;
 
@@ -12,7 +10,6 @@ public:
             int mid = start+(end-start)/2 ;
 
             if(nums[mid] == target){
-                index = true ;
                 return true ;
                 end = mid-1 ;
             }
@@ -37,6 +34,6 @@ public:
             }
         }
 
-        return index ;
+        return false ;
     }
 };
