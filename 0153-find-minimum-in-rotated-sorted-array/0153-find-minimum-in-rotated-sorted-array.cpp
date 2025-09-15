@@ -11,7 +11,6 @@ public:
             
             int mid = start+(end-start)/2 ;
 
-            
             if(nums[start] <= nums[mid]){
                 // left part is sorted
                 ans = min(ans,nums[start]) ;
