@@ -11,7 +11,6 @@ public:
 
             if(nums[mid] == target){
                 return true ;
-                end = mid-1 ;
             }
             if(nums[start]==nums[mid] && nums[mid]==nums[end]){
                 start = start+1 ;
