@@ -120,6 +120,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0792-binary-search](https://github.com/Prem-Ray/codekar/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/Prem-Ray/codekar/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Prem-Ray/codekar/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prem-Ray/codekar/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
