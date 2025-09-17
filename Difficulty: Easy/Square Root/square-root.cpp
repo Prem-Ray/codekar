@@ -9,9 +9,9 @@ class Solution {
         
         while(start <= end){
             
-            int mid = start+(end-start)/2 ;
+            long long mid = start+(end-start)/2 ;
             
-            if(mid*mid <= n){
+            if(mid*mid <= (long long)n){
                 ans = mid ;
                 start = mid+1 ;
             }else{
