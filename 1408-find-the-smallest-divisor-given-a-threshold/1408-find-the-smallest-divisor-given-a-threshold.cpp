@@ -14,17 +14,15 @@ public:
         return false ;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int mini = INT_MAX ;
         int maxi = INT_MIN ;
 
         for(int i=0 ; i<nums.size() ; i++){
-            mini = min(mini,nums[i]) ;
             maxi = max(maxi,nums[i]) ;
         }
 
         int start = 1 ;
         int end = maxi ;
-        int ans = mini ;
+        int ans = 1 ;
 
         while(start <= end){
             int mid = start+(end-start)/2 ;
