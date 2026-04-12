@@ -58,6 +58,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0342-power-of-four](https://github.com/Prem-Ray/codekar/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prem-Ray/codekar/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
 | [2571-find-the-pivot-integer](https://github.com/Prem-Ray/codekar/tree/master/2571-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
@@ -130,6 +131,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prem-Ray/codekar/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1833-find-the-highest-altitude](https://github.com/Prem-Ray/codekar/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prem-Ray/codekar/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prem-Ray/codekar/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -268,4 +270,8 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Prem-Ray/codekar/tree/master/0303-range-sum-query-immutable) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prem-Ray/codekar/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
