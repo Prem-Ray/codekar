@@ -61,6 +61,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [1013-fibonacci-number](https://github.com/Prem-Ray/codekar/tree/master/1013-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prem-Ray/codekar/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Prem-Ray/codekar/tree/master/2032-largest-odd-number-in-string) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Prem-Ray/codekar/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2571-find-the-pivot-integer](https://github.com/Prem-Ray/codekar/tree/master/2571-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
