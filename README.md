@@ -49,6 +49,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Prem-Ray/codekar/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Prem-Ray/codekar/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Prem-Ray/codekar/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Prem-Ray/codekar/tree/master/0189-rotate-array) |
