@@ -140,6 +140,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prem-Ray/codekar/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prem-Ray/codekar/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Prem-Ray/codekar/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/Prem-Ray/codekar/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Prem-Ray/codekar/tree/master/0560-subarray-sum-equals-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Prem-Ray/codekar/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prem-Ray/codekar/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -208,6 +210,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | ------- |
 | [0169-majority-element](https://github.com/Prem-Ray/codekar/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prem-Ray/codekar/tree/master/0229-majority-element-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Prem-Ray/codekar/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
 | ------- |
