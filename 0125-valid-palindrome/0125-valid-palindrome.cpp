@@ -1,34 +1,26 @@
 class Solution {
 public:
-
-
-    bool checkPointer(char ch){
-        if((ch>='A' && ch<='Z') || (ch>='a' && ch<='z') || (ch>='0' && ch<='9')){
-            return true ;
-        }
-        return false ;
-    }
-
     bool isPalindrome(string s) {
-        // for check point
-        string temp="" ;
-        for(int i=0 ; i<=s.size()-1 ; i++){
-            if(checkPointer(s[i])){
-                temp.push_back(tolower(s[i])) ;
+        string str="" ;
+        for(int i=0 ; i<s.size() ; i++){
+            char ch = s[i] ;
+
+            if((ch>='A' && ch<='Z') || (ch>='a' && ch<='z') || (ch>='0' && ch<='9')){
+                str.push_back(tolower(ch)) ;
             }
         }
-        
-        int l=0 , h=temp.size()-1 ;
-        while(l<h){
-            if(temp[l]!=temp[h]){
+
+        cout<<str ;
+
+        int i=0 ;
+        int j=str.size()-1 ;
+        while(i<j){
+            if(str[i]!=str[j]){
                 return false ;
             }
-            l++ ;
-            h-- ;
+            i++ ;
+            j-- ;
         }
         return true ;
-
-        
-
     }
 };
