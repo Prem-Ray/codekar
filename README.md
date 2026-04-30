@@ -25,6 +25,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0680-valid-palindrome-ii](https://github.com/Prem-Ray/codekar/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Prem-Ray/codekar/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Prem-Ray/codekar/tree/master/0953-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0977-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prem-Ray/codekar/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prem-Ray/codekar/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -132,6 +133,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0724-find-pivot-index](https://github.com/Prem-Ray/codekar/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Prem-Ray/codekar/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Prem-Ray/codekar/tree/master/0907-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Prem-Ray/codekar/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prem-Ray/codekar/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/Prem-Ray/codekar/tree/master/1603-running-sum-of-1d-array) |
@@ -199,6 +201,7 @@ Collection of LeetCode and Geekforgeeks questions to ace the coding interview
 | [0242-valid-anagram](https://github.com/Prem-Ray/codekar/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prem-Ray/codekar/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Prem-Ray/codekar/tree/master/0539-minimum-time-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prem-Ray/codekar/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
