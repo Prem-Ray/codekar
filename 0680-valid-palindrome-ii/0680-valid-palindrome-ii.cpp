@@ -16,7 +16,7 @@ public:
 
         while(i<j){
             if(s[i]!=s[j]){
-                if(count==2) break ;
+                if(count==1) return false ;
                 if(checkPalindrome(s,i+1,j)) i++ ;
                 if(checkPalindrome(s,i,j-1)) j-- ;
                 count++ ;
